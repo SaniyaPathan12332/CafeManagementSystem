@@ -1,5 +1,3 @@
-# CafeManagementSystem
-
 # Cafe Management System (SQL Project)
 
 This is a Mini Cafe Management System project built using SQL.  
